@@ -13,6 +13,8 @@ export default function Home() {
 
       <main className={styles.main}>
         <Card title={1}>Card</Card>
+        <Card title={1}>Card</Card>
+        <Card title={1}>Card</Card>
       </main>
     </div>
   );
